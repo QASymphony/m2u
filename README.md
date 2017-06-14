@@ -21,6 +21,9 @@ In order to build this jar, just run maven without any arguments:
 
 If the `<name of the test suite>` argument is not given, it will default to `jmeter`.
 
+## Content in JUnit file ?
+Thread name (JTL file) presents as classname
+Label (JTL file) presents as method name
 
 ## License
 This software is available under GNU GPL license. Please see file `LICENSE` for details.
