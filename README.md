@@ -35,7 +35,7 @@ If the `<name of the test suite>` argument is not given, it will default to `jme
 In Bamboo tool:
 1. Copy m2u.jar file into your automation project under Bamboo build directory
 2. Add new task as SCRIPT in Default Job of the Configuration build projects
-![Bamboo Task](/images/bamboo_task.png?raw=true)
+![Bamboo Task](/images/bamboo.png?raw=true)
 
 In Jenkins tool:
 1. Copy m2u.jar file into your automation project under Jenkins job
